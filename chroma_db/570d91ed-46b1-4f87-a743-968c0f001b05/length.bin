@@ -1,0 +1,8 @@
+RAG, and Modular RAG, as showed in Figure 3. Despite
+RAG method are cost-effective and surpass the performance
+of the native LLM, they also exhibit several limitations.
+The development of Advanced RAG and Modular RAG is
+a response to these specific shortcomings in Naive RAG.
+A. Naive RAG
+The Naive RAG research paradigm represents the earli-
+est methodology, which gained prominence shortly after th

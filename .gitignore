@@ -1,0 +1,4 @@
+.env
+
+# Keep local notebook changes private
+08_External_Index_Retrievers.ipynb
